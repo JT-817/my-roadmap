@@ -1,0 +1,63 @@
+a:hover {
+  color: #112D4E;
+}
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  line-height: 2;
+  color: #112D4E;
+}
+.banner-container {
+  background-color: #3F72AF;
+  width: 100%;
+  padding-top: 20px;
+}
+.top-container{
+  width: 50%;
+  margin: 100px auto;
+}
+.innovation-image {
+  float: left;
+  width: 25%;
+}
+.middle-container {
+  width: 50%;
+  margin: 100px auto;
+}
+.programing-image {
+  float: right;
+  width: 25%;
+  margin-left: 25px;
+}
+.nodejs-icon {
+  float: left;
+  width: 25%;
+}
+.bottom-container {
+  width: 50%;
+  margin: 100px auto;
+}
+.footer {
+  background-color: #3F72AF;
+  padding-bottom: 20px;
+  padding-top: 35px;
+}
+.footer-link {
+  padding: 30px;
+  text-decoration: none;
+  color: #112D4E;
+}
+.footer-link:hover {
+  color: #DBE2EF;
+}
+.copyright {
+  color: #DBE2EF;
+  padding: 20px;
+  font-size: 0.75rem;
+}
+h1 {
+  position: relative;
+  bottom: 20px;
+  color: #F9F7F7;
+}
